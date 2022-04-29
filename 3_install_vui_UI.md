@@ -1,0 +1,1 @@
+- ``` vue ui ```: irá abrir uma aba no browser para criação e manipulação de projetos vue
