@@ -3,7 +3,7 @@
 ##### Componente de arquivo único ou Modelo de arquivo único
 
 Basicamente falando, correspondem a menor parte da aplicação front-end. Com suas próprias caracterísitcas e comportamentos.
-Ou seja, a ideia é criar pequenas partes de uma aplicação com responsabilidades únicas ede modo bem estruturado. Para que sejam reutilizados em outras partes da aplicação.
+Ou seja, a ideia é criar pequenas partes de uma aplicação com responsabilidades únicas e de modo bem estruturado. Para que sejam reutilizados em outras partes da aplicação.
 
 ### Divisão de um Single File Components
 
